@@ -2,7 +2,13 @@
 
 Faites votre **prédéclaration de TVA avec votre IA** (Claude, ChatGPT, Le Chat, Kimi, Cursor…) grâce à [TVA en ligne](https://tva.zap-info.com) : votre IA dépose vos pièces, vous pose les questions de l'outil, vous montre le résultat et récupère l'archive (récapitulatif PDF, classeur Excel, écritures, pièces renommées). **Vous déclarez ensuite vous-même** sur impots.gouv.fr.
 
-**Pas besoin de savoir coder :** suivez le guide pas à pas sur **https://tva.zap-info.com/connecter-ia**. Il vous donne un texte à copier-coller dans votre IA, qui s'occupe du reste.
+## Le plus simple : 3 clics
+
+1. Allez sur **https://tva.zap-info.com/connecter-ia** et **cliquez sur votre IA** (Claude Code, Kimi Code, Gemini CLI, Codex, Cursor, VS Code, Windsurf, Claude / ChatGPT / Le Chat…).
+2. Cliquez sur **Copier le texte**.
+3. **Collez-le dans votre IA.** Elle télécharge ce connecteur depuis GitHub, l'installe avec votre clé personnelle, vérifie qu'il marche, puis vous guide pour votre TVA.
+
+Aucun compte ni code à écrire : votre clé d'accès est créée au premier clic. Les instructions manuelles ci-dessous ne servent qu'aux curieux.
 
 ## Deux façons de se connecter
 
